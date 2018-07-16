@@ -3,5 +3,9 @@ property: value;
 } */
 
 h1{
-  color: blue;
+  color: red;
+}
+
+li{
+  color: green;
 }
