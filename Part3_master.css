@@ -18,3 +18,7 @@ h3 + ul{
 li a{
   color:red
 }
+li a[href="http://www.npr.org"]{
+  color: blue;
+  border: 5px solid orange;
+}
